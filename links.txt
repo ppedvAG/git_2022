@@ -1,0 +1,8 @@
+https://dev.azure.com/Gitschulung4000/
+
+https://winmerge.org/  
+https://www.sourcetreeapp.com/  
+https://git-scm.com/book/en/v2  
+https://semver.org/  
+https://roadmap.sh/devops  
+https://github.com/kvarak/git-best-practices  
